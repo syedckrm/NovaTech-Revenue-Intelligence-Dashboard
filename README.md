@@ -4,8 +4,11 @@ Agentic BI project built with **Amazon Quick**, combining multi-source data inge
 
 ## Overview
 [NovaTech_README.md](https://github.com/user-attachments/files/32708352/NovaTech_README.md)
+
 [novatech_support_tickets.csv](https://github.com/user-attachments/files/32708328/novatech_support_tickets.csv)
+
 [novatech_marketing_campaigns.csv](https://github.com/user-attachments/files/32708326/novatech_marketing_campaigns.csv)
+
 [novatech_crm_deals.csv](https://github.com/user-attachments/files/32708325/novatech_crm_deals.csv)
 
 
