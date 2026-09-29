@@ -1,6 +1,6 @@
 # NovaTech Revenue Intelligence Dashboard
 
-Agentic BI project built with **Amazon Quick**, combining multi-source data ingestion, transformation, dashboard design, and natural-language (NL) query configuration to answer real business questions across marketing, sales, and customer support data.
+Agentic BI project built with **Amazon Quick**, combining multi-source data ingestion, transformation, dashboard design, and natural-language (NL) query configuration to answer real business questions across marketing, sales CRM , and customer support data.
 
 ## Overview
 [NovaTech_README.md](https://github.com/user-attachments/files/32708352/NovaTech_README.md)
